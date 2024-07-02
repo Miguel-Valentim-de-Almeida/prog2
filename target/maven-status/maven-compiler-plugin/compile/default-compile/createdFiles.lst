@@ -11,6 +11,7 @@ lista3\ex7\CalculadoraViaString.class
 lista4\ex1\Cilindro.class
 lista3\ex6\Classe.class
 lista2\ex3\TestarProgramadorHorista.class
+lista6\ex4\Heroi.class
 ex_interfaces\FolhaPagamento.class
 lista3\ex7\TestarCalculadoraViaString.class
 ex_interfaces\Operario.class
@@ -20,7 +21,10 @@ trabalho_prog_II\LeitorArquivo.class
 lista2\ex4\Carro.class
 lista3\ex4\Data.class
 lista3\ex4\TestarData.class
+lista6\ex4\Jogo.class
+lista6\ex4\Inimigo.class
 lista2\ex5\TestarLivro.class
+lista6\ex4\Teste.class
 ex_interfaces\Gerente.class
 lista1\ex1\Lampada.class
 lista1\ex1\TestarLampada.class
@@ -29,6 +33,7 @@ lista5\ex2\Ponto.class
 lista2\ex2\Aluno.class
 lista5\ex2\TestePixel.class
 lista5\ex4\TesteHeranca.class
+lista6\ex4\IPersonagem.class
 lista2\ex1\Linha.class
 lista2\ex6\Programador.class
 lista2\ex2\Dupla.class
